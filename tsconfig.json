@@ -2,3 +2,4 @@
 	"compilerOptions": {
 		"target": "es2020",
 		"lib": ["dom", "dom.iterable", "esnext"],
+		"allowJs": true,
