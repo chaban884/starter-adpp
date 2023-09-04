@@ -7,3 +7,4 @@
 		"strict": false,
 		"forceConsistentCasingInFileNames": true,
 		"noEmit": true,
+		"incremental": true,
