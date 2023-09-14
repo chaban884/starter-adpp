@@ -17,3 +17,5 @@
 		"baseUrl": ".",
 		"paths": {
 			"@/*": ["src/*"],
+			"@images/*": ["public/images/*"]
+		}
