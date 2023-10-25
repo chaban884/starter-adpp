@@ -88,3 +88,6 @@
   integrity sha512-7cRisGlVtiVqZ0MW0/yFB4atgpGLWEHUVYnb448hZK4x+vih0YO5UoS11XIYtZYqHd0dIPMdUSv8q5K4LdMnIg==
   dependencies:
     "@babel/template" "^7.16.7"
+    "@babel/types" "^7.17.0"
+
+"@babel/helper-function-name@^7.18.9":
