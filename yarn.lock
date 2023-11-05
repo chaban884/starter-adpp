@@ -111,3 +111,6 @@
   integrity sha512-UlJQPkFqFULIcyW5sbzgbkxn2FKRgwWiRexcuaR8RNJRy8+LLveqPjwZV/bwrLZCN0eUHD/x8D0heK1ozuoo6Q==
   dependencies:
     "@babel/types" "^7.18.6"
+
+"@babel/helper-module-imports@^7.0.0", "@babel/helper-module-imports@^7.16.0":
+  version "7.18.6"
