@@ -151,3 +151,6 @@
   dependencies:
     "@babel/template" "^7.16.7"
     "@babel/types" "^7.17.0"
+
+"@babel/helper-function-name@^7.18.9":
+  version "7.18.9"
